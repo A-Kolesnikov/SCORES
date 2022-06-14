@@ -98,7 +98,7 @@ int main()
 			cout << "NO!!! Numbers from 1 to " << a << ", please!" << endl << setw(dist) << "";
 		}
 
-		//cin >> num;
+		//cin >> num;	 //If you want to read not only numbers
 		if (num == 0)
 			return 0;
 		if (num > 0 && num <= a)
